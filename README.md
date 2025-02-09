@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://fl1tzz.notion.site/Portfolio-179c2310050f80b6b0eaf84b22e995a5](https://fl1tzz.notion.site/Portfolio-179c2310050f80b6b0eaf84b22e995a5)
-
 - 📫 How to reach me **bartek@loadreverb.com**
 
 <h3 align="left">Connect with me:</h3>
