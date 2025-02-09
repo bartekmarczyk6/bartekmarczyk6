@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bartek</h1>
 <h3 align="center">Fullstack Developer passionate about turning complex challenges into elegant solutions. I thrive on pushing boundaries and taking on ambitious projects that others might shy away from 🚀 Always eager to explore new technologies and tackle the next impossible challenge</h3>
 
-- 🔭 I’m currently working on [conversational assistant called slot.ai](https://fl1tzz.notion.site/slot-ai-in-development-179c2310050f80f29099dd01153f02f0)
+- 🔭 I’m currently working on [conversational assistant called slot.ai](https://slotai.app)
 
 - 🌱 I’m currently learning **Python**
 
